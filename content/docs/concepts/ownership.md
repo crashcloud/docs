@@ -1,5 +1,5 @@
 ---
-title: Leaf Page
+title: Ownership
 type: docs
 prev: docs/folder/
 ---

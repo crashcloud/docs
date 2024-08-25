@@ -1,8 +1,7 @@
 ---
-title: Folder
+title: concepts
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: docs/
 sidebar:
   open: true
 ---

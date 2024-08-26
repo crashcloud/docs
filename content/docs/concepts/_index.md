@@ -1,9 +1,9 @@
 ---
-title: concepts
+title: Concepts
 type: docs
 prev: docs/
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+A collection of information about crash concepts.

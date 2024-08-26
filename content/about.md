@@ -1,6 +1,7 @@
 ---
 title: About
 type: about
+toc: true
 ---
 
 Crash is a labour of love.

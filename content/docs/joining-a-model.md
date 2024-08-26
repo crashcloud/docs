@@ -5,6 +5,7 @@ prev: installation
 next: leaving-a-model
 sidebar:
   open: true
+toc: true
 ---
 
 Joining a shared model and starting to collaborate couldn't be easier.
@@ -16,11 +17,29 @@ _If the command does not appear, make sure you have installed Crash correctly_
 
 To add a model to the list
 
-1. Click in the "Enter a new Model Address" text area
-2. Write or paste the URL or IP Address of the model you wish to join
-3. Click Add, to add it to the list.
-4. Select the newly added row
-5. Click the Join button on the left of your address
+{{% steps %}}
+
+### Step 1
+
+Click in the "Enter a new Model Address" text area
+
+### Step 2
+
+Write or paste the URL or IP Address of the model you wish to join
+
+### Step 3
+
+Click Add, to add it to the list.
+
+### Step 4
+
+Select the newly added row
+
+### Step 5
+
+Click the Join button on the left of your address
+
+{{% /steps %}}
 
 Crash will now attempt to join the shared model.
 
@@ -29,7 +48,7 @@ Do not join URLs or IP addresses you are not familiar with.
 And do not give our your own IP Address to people you are unfamiliar with.
 {{< /callout >}}
 
-# Troubleshooting
+## Troubleshooting
 
 ### I got an error message
 
@@ -40,6 +59,6 @@ You can put any IP Address or URL into your web browser and you should see a fri
 
 ![Crash Splash](crash-splash.png)
 
-### Nothing happened or something not described above
+### Something else happened
 
 This is unsual, please post a question on [discourse](https://discourse.mcneel.com/c/plug-ins/multi-user/163/)

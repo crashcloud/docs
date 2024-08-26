@@ -18,13 +18,13 @@ If you do not release your changes they will not be available for other users to
 
 Crash will now attempt to join the shared model.
 
-# Troubleshooting
+## Troubleshooting
 
 ### I got message "You are not connected to a shared model"
 
 This means you weren't able to leave a model you were not a part of anyway.
 If this is unexpected because you thought you were in a model, check your connection and the server by pasting its URL into your browser.
 
-### Nothing happened or something not described above
+### Something else happened
 
 This is unsual, please post a question on [discourse](https://discourse.mcneel.com/c/plug-ins/multi-user/163/)

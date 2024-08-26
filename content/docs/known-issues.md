@@ -20,15 +20,18 @@ If you find a bug, please create an issue in the repository, or post on Discours
   - Grips
   - Groups
   - Blocks
-  - Layers
   - Materials
   - Linestyles
     (I think you get the picture, Crash is fairly basic currently!)
 
-## 1.4.0-wip (and previous)
+## 1.4.0-wip
 
 - Crash cannot send data items over 1mb currently
   > FIX : You can fix this by modifying config in your crash.server release/build
 - Unsupported Elements
   - Layers
 - Hitting undo quickly after creating an item can result in it not sending
+
+## 1.3.0 (and previous)
+
+Do not use old Crash Versions

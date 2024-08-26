@@ -12,7 +12,6 @@ weight: 3
 Joining a shared model and starting to collaborate couldn't be easier.
 
 Run the `JoinSharedModel` command.
-_If the command does not appear, make sure you have installed Crash correctly_
 
 ![Joining a Shared Model in Crash](join-shared-model.png)
 
@@ -20,23 +19,24 @@ To add a model to the list
 
 {{% steps %}}
 
-### Step 1
+### Start
 
 Click in the "Enter a new Model Address" text area
 
-### Step 2
+### Input
 
 Write or paste the URL or IP Address of the model you wish to join
 
-### Step 3
+### Add
 
 Click Add, to add it to the list.
+Crash will remember this model for later
 
-### Step 4
+### Select
 
 Select the newly added row
 
-### Step 5
+### Join
 
 Click the Join button on the left of your address
 
@@ -49,7 +49,15 @@ Do not join URLs or IP addresses you are not familiar with.
 And do not give our your own IP Address to people you are unfamiliar with.
 {{< /callout >}}
 
+## Removing a Model
+
+A model can be removed from the list by Right Clicking, and selecting "Remove".
+
 ## Troubleshooting
+
+### The Command does not appear
+
+If the command does not appear, make sure you have installed the latest version of Crash correctly.
 
 ### I got an error message
 

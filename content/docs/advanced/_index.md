@@ -19,5 +19,5 @@ If the docs are missing information, please post an issue, or open a pull reques
 If the software is buggy, or confusing, please post an issue, or open a pull request here
 
 {{< cards >}}
-{{< card link="https://github.com/crashcloud/crash.server" title="Docs" icon="book-open" >}}
+{{< card link="https://github.com/crashcloud/crash.server" title="Git Repository" icon="github" >}}
 {{< /cards >}}

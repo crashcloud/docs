@@ -2,7 +2,7 @@
 title: Releasing Geometry
 type: docs
 prev: users-panel
-next: leaving-a-model
+next: known-issues
 sidebar:
   open: true
 toc: true
@@ -25,6 +25,10 @@ Every temporary change you have will be sent to every other user and baked
 Every selected temporary change you have will be sent to every other user and baked
 
 ## Troubleshooting
+
+### The Command does not appear
+
+If the command does not appear, make sure you have installed the latest version of Crash correctly.
 
 ### Something else happened
 

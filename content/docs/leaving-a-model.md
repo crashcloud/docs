@@ -11,7 +11,6 @@ weight: 4
 Leaving a shared model is quite simple.
 
 Run the `LeaveSharedModel` command.
-_If the command does not appear, make sure you have installed Crash correctly_
 
 You will be asked if you want to Release your Changes before you leave.
 
@@ -20,6 +19,10 @@ If you do not release your changes they will not be available for other users to
 Crash will now attempt to join the shared model.
 
 ## Troubleshooting
+
+### The Command does not appear
+
+If the command does not appear, make sure you have installed the latest version of Crash correctly.
 
 ### I got message "You are not connected to a shared model"
 

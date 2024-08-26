@@ -5,6 +5,7 @@ prev: docs/concepts/
 next: docs/plugins/
 sidebar:
   open: true
+weight: 300
 ---
 
 Advanced Crash guides

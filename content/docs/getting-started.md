@@ -1,28 +1,40 @@
 ---
-title: Getting Started with a Shared Model
+title: Getting Started
 type: docs
-prev: leaving-a-model
-next: docs/concepts/
-sidebar:
-  open: true
+prev: /
+next: docs/join-shared-model
 toc: true
+weight: 1
 ---
 
-## Crash
+Let's start simple and get a basic overview of Crash. We'll go into more detail later. If you get stuck in this quick guide, you can always search for the topic you are lost on.
 
-![Crash Model](crash-model.png)
+## Join a Shared Model
+
+Crash lets you access models shared by any number of collaborators.
+To join, use the `JoinSharedModel` command, enter a URL and click 'Join'
+
+![Join Shared Model](images/join-shared-model.png)
+
+We will now see a Crash Model, full of users collaborating on different parts of the model.
+![Crash Model](images/crash-model.png)
 
 ## The Collaborators Panel
 
-![Users Panel](users-panel.png)
+![Collaborators Panel](images/users-panel.png)
 
-The users panel shows all of the collaborators currently in the model, you will be listed at the top.
+The collaborators panel shows all of the users currently in the model, you will be listed at the top.
 
 ## Create a piece of Geometry
 
 > Create a box
 
 As soon as you finish creating the box, Crash will send this to the server, and relay it to every other user listed in the Collaborators panel. Users will see the box in the same colour next to your name. Every users colour is consistent between every collaborator.
+
+## Release your work
+
+Releasing sends all your temporary (work in progress) geometry to other collaborators.
+Use the `Release` command
 
 ## Troubleshooting
 

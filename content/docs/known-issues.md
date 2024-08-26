@@ -6,6 +6,7 @@ next: concepts/
 sidebar:
   open: true
 toc: true
+weight: 20
 ---
 
 {{< callout emoji="🪲" >}}

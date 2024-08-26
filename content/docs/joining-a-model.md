@@ -6,6 +6,7 @@ next: leaving-a-model
 sidebar:
   open: true
 toc: true
+weight: 3
 ---
 
 Joining a shared model and starting to collaborate couldn't be easier.

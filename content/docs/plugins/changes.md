@@ -3,11 +3,12 @@ title: Changes
 type: docs
 prev: docs/advanced/assembly
 next: docs/advanced/events
+weight: 2002
 ---
 
 # Change Definition
 
-The Change Definition describes how the changes are drawn, if at all, how they are categorised and what actions can be taken with the changes.
+The Change Definition describes how the changes are drawn, if at all, how they are categorised and what actions can be taken with the changes. In this definition you can also create custom Tables inside of the Crash Document to store information.
 
 {{< cards >}}
 {{< card link="https://github.com/crashcloud/Crash/blob/main/src/Crash.Handlers/Plugins/IChangeDefinition.cs" title="IChangeDefinition.cs" icon="book-open" >}}

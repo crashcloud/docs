@@ -5,6 +5,7 @@ prev: installation
 next: docs/advanced/
 sidebar:
   open: true
+weight: 4
 ---
 
 Leaving a shared model is quite simple.

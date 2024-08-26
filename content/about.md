@@ -11,8 +11,14 @@ Crash is a labour of love.
 {{< cards >}}
 {{< card link="https://github.com/crashcloud/crash" title="Crash" icon="user-group" >}}
 {{< card link="https://github.com/crashcloud/crash.server" title="Crash Server" icon="server" >}}
-{{< card link="https://github.com/crashcloud/crash.changes" title="Crash Server" icon="dots-circle-horizontal" >}}
+{{< card link="https://github.com/crashcloud/crash.changes" title="Crash Changes" icon="dots-circle-horizontal" >}}
 {{< /cards >}}
+
+# Why is it called Crash?
+
+It is one of the terms used to refer to a group of Rhinos.
+
+https://africafreak.com/what-is-a-group-of-rhinos-called
 
 # Acknowledgments
 

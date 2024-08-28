@@ -4,7 +4,6 @@ type: docs
 prev: /
 toc: true
 weight: 30
-draft: true
 ---
 
 The goal of Crash is to be

@@ -12,5 +12,6 @@ Crash allows you to create shared models which can be interacted with by people 
 
 {{< cards >}}
 {{< card link="docs/getting-started" title="Get Started" icon="book-open" >}}
-{{< card link="docs/installation" title="Install Crash" icon="book-open" >}}
+{{< card link="docs/installation" title="Install Crash" icon="cloud-download" >}}
+{{< card link="docs/use-cases" title="What can Crash do?" icon="question-mark-circle" >}}
 {{< /cards >}}

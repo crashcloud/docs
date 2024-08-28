@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://discourse.mcneel.com/c/plug-ins/multi-user/163/"
+      url: "https://discourse.mcneel.com/new-topic?title=question%20about%20crash&body=please%20help&category=plug-ins/multi-user"
       weight: 3
     - name: Search
       weight: 4
@@ -36,7 +36,7 @@ menu:
       url: "https://github.com/crashcloud/docs"
       params:
         icon: github
-    - name: discourse
+    - name: Discourse
       weight: 6
       url: "https://discourse.mcneel.com/c/plug-ins/multi-user/163/"
       params:
@@ -45,11 +45,11 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true

@@ -13,7 +13,7 @@ Joining a shared model and starting to collaborate couldn't be easier.
 
 Run the `JoinSharedModel` command.
 
-![Joining a Shared Model in Crash](join-shared-model.png)
+![Joining a Shared Model in Crash](images/join-shared-model.gif)
 
 To add a model to the list
 
@@ -52,6 +52,7 @@ And do not give our your own IP Address to people you are unfamiliar with.
 ## Removing a Model
 
 A model can be removed from the list by Right Clicking, and selecting "Remove".
+![Remove Crash Model](images/remove-model.gif)
 
 ## Troubleshooting
 
@@ -62,11 +63,11 @@ If the command does not appear, make sure you have installed the latest version 
 ### I got an error message
 
 If the error message is similar to below, and the Join Shared Model window re-appeared, then there is an issue with your url. Ensure you typed it correctly, and that it exists.
-![Standard Crash Error](join-error.png)
+![Standard Crash Error](images/join-error.png)
 
 You can put any IP Address or URL into your web browser and you should see a friendly Crash splash-screen if the server exists. If you see nothing, the address is wrong, or the server is not available.
 
-![Crash Splash](crash-splash.png)
+![Crash Splash](images/crash-splash.png)
 
 ### Something else happened
 

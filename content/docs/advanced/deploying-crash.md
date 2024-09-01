@@ -70,4 +70,4 @@ Crash can be hosted easily using Azure and creating a Web App.
 
 Visit the url of the Crash server on your Computer, if you can see this page, you can join the server!
 
-![Crash Splash](crash-splash.png)
+![Crash Splash](../images/crash-splash.png)

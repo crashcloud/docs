@@ -1,11 +1,15 @@
 ---
 title: Getting Started
 type: docs
-prev: /
-next: docs/join-shared-model
+prev: docs/installation
+next: docs/joining-a-model
 toc: true
 weight: 1
 ---
+
+{{< cards >}}
+{{< card link="../installation" title="Don't forget to install Crash!" icon="cloud-download" >}}
+{{</ cards >}}
 
 Let's start simple and get a basic overview of Crash. We'll go into more detail later. If you get stuck in this quick guide, you can always search for the topic you are lost on.
 

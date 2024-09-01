@@ -9,7 +9,11 @@ weight: 50
 ## Crash is Open Source
 
 Crash is completely transparent in its code and is user-driven.
-Crash will be open source forever
+Crash will be open source forever.
+
+{{< cards >}}
+{{< card link="../open-source/" title="Crash is Open Source" icon="book-open" >}}
+{{< /cards >}}
 
 ## Crash is very Hackable
 

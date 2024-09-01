@@ -7,7 +7,7 @@ toc: true
 weight: 3000
 ---
 
-{{< callout emoji="⚠️" >}}
+{{< callout type="warning" >}}
 Crash does not offer an authentication system (… yet …), if someone knows the URL they can join!
 {{< /callout >}}
 
@@ -19,7 +19,7 @@ Crash does not offer an authentication system (… yet …), if someone knows th
 
 {{< tab >}}**Exe**:
 
-{{< callout emoji="⚠️" >}}
+{{< callout type="warning" >}}
 crash.server is only released for Windows currently. If you need a linux build you can build it from source easily.
 {{< /callout >}}
 

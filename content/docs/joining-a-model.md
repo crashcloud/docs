@@ -44,7 +44,7 @@ Click the Join button on the left of your address
 
 Crash will now attempt to join the shared model.
 
-{{< callout emoji="⚠️" >}}
+{{< callout type="warning" >}}
 Do not join URLs or IP addresses you are not familiar with.
 And do not give our your own IP Address to people you are unfamiliar with.
 {{< /callout >}}

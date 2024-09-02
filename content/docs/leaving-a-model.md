@@ -2,7 +2,7 @@
 title: Leaving a Shared Model
 type: docs
 prev: installation
-next: docs/advanced/
+next: docs/users-panel/
 sidebar:
   open: true
 weight: 4

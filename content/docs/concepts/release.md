@@ -1,8 +1,8 @@
 ---
 title: Release
 type: docs
-prev: docs/folder/
-draft: true
+prev: ownership/
+next: shared-model/
 weight: 1003
 ---
 
@@ -14,7 +14,7 @@ weight: 1003
 If a Geometry Object is added to Rhino it will add itself to the Undo stack.
 Consider the following theoretical scenario.
 
-- User A creates a complex loft and is rimming it with other surfaces
+- User A creates a complex loft and is trimming it with other surfaces
 - User B creates a box
 - User A recieves User B's Box
 - If user A wants to undo a change to their work, they must also undo User B's box

@@ -16,7 +16,7 @@ The Change Definition describes how the changes are drawn, if at all, how they a
 
 # Change Create Action
 
-Change Create Actions define the circumstances in which a Change is created. This could be a Box being moved, deleted, selected, or even a completely unique event in your Plugin!
+Change Create Actions define the circumstances in which a Change is created. This could be a Box being moved, deleted, selected, or even a completely unique event in your Plugin! This change is then captured and sent to the server.
 
 {{< cards >}}
 {{< card link="https://github.com/crashcloud/Crash/blob/main/src/Crash.Handlers/Plugins/IChangeCreateAction.cs" title="IChangeCreateAction.cs" icon="code" >}}

@@ -1,7 +1,8 @@
 ---
 title: Changes
 type: docs
-prev: docs/folder/
+prev: docs/concepts/
+next: ownership/
 weight: 1001
 ---
 

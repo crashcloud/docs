@@ -2,6 +2,7 @@
 title: Concepts
 type: docs
 prev: docs/
+next: concepts/changes/
 sidebar:
   open: true
 weight: 100

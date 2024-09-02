@@ -1,7 +1,7 @@
 ---
 title: Events
 type: docs
-prev: docs/advanced/changes
+prev: plugins/changes
 weight: 2003
 ---
 

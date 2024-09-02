@@ -1,7 +1,7 @@
 ---
 title: Shared Model
 type: docs
-prev: docs/folder/
+prev: release/
 draft: true
 weight: 1004
 ---

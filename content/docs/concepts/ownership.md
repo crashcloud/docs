@@ -1,9 +1,9 @@
 ---
 title: Ownership
 type: docs
-prev: docs/folder/
+prev: concepts/changes/
+next: concepts/release/
 weight: 1002
-draft: true
 ---
 
 There are currently two types of Ownership in Crash

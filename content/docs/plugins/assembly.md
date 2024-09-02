@@ -10,15 +10,21 @@ The Crash Plugin must be built into an `.op` assembly. As some plugins are creat
 
 ### Yak package structure
 
-// TODO : Use File structure in Hextra
+{{< filetree/container >}}
+{{< filetree/folder name="Release" >}}
+{{< filetree/file name="Manifest.yml" >}}
 
-- Debug
-  -- Manifest.yml
-  -- net7.0
-  --- MyRhinoPlugin.rhp
-  --- MyCrashPlugin.op
-  --- MyPluginLib.dll
-  -- net4.8
-  --- MyRhinoPlugin.rhp
-  --- MyCrashPlugin.op
-  --- MyPluginLib.dll
+{{< filetree/folder name="net7.0" >}}
+{{< filetree/file name="MyRhinoPlugin.rhp" >}}
+{{< filetree/file name="MyCrashPlugin.op" >}}
+{{< filetree/file name="MyPluginLib.dll" >}}
+{{< /filetree/folder >}}
+
+{{< filetree/folder name="net48" >}}
+{{< filetree/file name="MyRhinoPlugin.rhp" >}}
+{{< filetree/file name="MyCrashPlugin.op" >}}
+{{< filetree/file name="MyPluginLib.dll" >}}
+{{< /filetree/folder >}}
+
+{{< /filetree/folder >}}
+{{< /filetree/container >}}
